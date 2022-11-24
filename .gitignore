@@ -1,0 +1,8 @@
+.env
+.git
+
+order-service/node_modules/
+order-service/.env
+
+product-service/node_modules/
+product-service/.env
